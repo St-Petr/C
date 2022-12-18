@@ -24,11 +24,11 @@ int main()
 		}
 		else if (age <= 0)
 		{
-			printf("Age invalid: User not born yet.");
+			printf("Age invalid: User not born yet.\n");
 			}
 			else
 			{
-				printf("You are not old enough");
+				printf("You are not old enough.\n");
 				}
 				
 		return 0;
