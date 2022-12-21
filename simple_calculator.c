@@ -1,6 +1,6 @@
 ﻿#include <stdio.h>
 
-/* Shou carry out simple operations like ADDITION, MULTIPLICATION, DIVITION, SUBTRACTION. Using operators (+, *, /, -)*/
+/* Should carry out simple operations like ADDITION, MULTIPLICATION, DIVITION, SUBTRACTION. Using operators (+, *, /, -)*/
 
 int main()
 {
